@@ -1,0 +1,8 @@
+c:\users\erick.medina\source\repos\entityF-Ejemplo1\entityF-Ejemplo1\bin\Debug\netcoreapp2.0\entityF-Ejemplo1.deps.json
+c:\users\erick.medina\source\repos\entityF-Ejemplo1\entityF-Ejemplo1\bin\Debug\netcoreapp2.0\entityF-Ejemplo1.runtimeconfig.json
+c:\users\erick.medina\source\repos\entityF-Ejemplo1\entityF-Ejemplo1\bin\Debug\netcoreapp2.0\entityF-Ejemplo1.runtimeconfig.dev.json
+c:\users\erick.medina\source\repos\entityF-Ejemplo1\entityF-Ejemplo1\bin\Debug\netcoreapp2.0\entityF-Ejemplo1.dll
+c:\users\erick.medina\source\repos\entityF-Ejemplo1\entityF-Ejemplo1\obj\Debug\netcoreapp2.0\entityF-Ejemplo1.csprojAssemblyReference.cache
+c:\users\erick.medina\source\repos\entityF-Ejemplo1\entityF-Ejemplo1\obj\Debug\netcoreapp2.0\entityF-Ejemplo1.csproj.CoreCompileInputs.cache
+c:\users\erick.medina\source\repos\entityF-Ejemplo1\entityF-Ejemplo1\obj\Debug\netcoreapp2.0\entityF-Ejemplo1.AssemblyInfoInputs.cache
+c:\users\erick.medina\source\repos\entityF-Ejemplo1\entityF-Ejemplo1\obj\Debug\netcoreapp2.0\entityF-Ejemplo1.AssemblyInfo.cs

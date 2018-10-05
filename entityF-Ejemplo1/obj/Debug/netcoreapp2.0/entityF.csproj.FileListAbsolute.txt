@@ -1,0 +1,11 @@
+c:\users\erick.medina\source\repos\entityF-Ejemplo1\entityF-Ejemplo1\bin\Debug\netcoreapp2.0\entityF.deps.json
+c:\users\erick.medina\source\repos\entityF-Ejemplo1\entityF-Ejemplo1\bin\Debug\netcoreapp2.0\entityF.runtimeconfig.json
+c:\users\erick.medina\source\repos\entityF-Ejemplo1\entityF-Ejemplo1\bin\Debug\netcoreapp2.0\entityF.runtimeconfig.dev.json
+c:\users\erick.medina\source\repos\entityF-Ejemplo1\entityF-Ejemplo1\bin\Debug\netcoreapp2.0\entityF.dll
+c:\users\erick.medina\source\repos\entityF-Ejemplo1\entityF-Ejemplo1\bin\Debug\netcoreapp2.0\entityF.pdb
+c:\users\erick.medina\source\repos\entityF-Ejemplo1\entityF-Ejemplo1\obj\Debug\netcoreapp2.0\entityF.csprojAssemblyReference.cache
+c:\users\erick.medina\source\repos\entityF-Ejemplo1\entityF-Ejemplo1\obj\Debug\netcoreapp2.0\entityF.csproj.CoreCompileInputs.cache
+c:\users\erick.medina\source\repos\entityF-Ejemplo1\entityF-Ejemplo1\obj\Debug\netcoreapp2.0\entityF.AssemblyInfoInputs.cache
+c:\users\erick.medina\source\repos\entityF-Ejemplo1\entityF-Ejemplo1\obj\Debug\netcoreapp2.0\entityF.AssemblyInfo.cs
+c:\users\erick.medina\source\repos\entityF-Ejemplo1\entityF-Ejemplo1\obj\Debug\netcoreapp2.0\entityF.dll
+c:\users\erick.medina\source\repos\entityF-Ejemplo1\entityF-Ejemplo1\obj\Debug\netcoreapp2.0\entityF.pdb
